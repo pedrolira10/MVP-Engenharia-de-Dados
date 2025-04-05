@@ -7,7 +7,7 @@ O problema em questão envolve a análise de dados históricos recentes relacion
 
 Sumário do projeto: 
 
-➡ 1. Notebok: Mvp Engenharia de Dados
+➡ 1. Notebok: [Mvp Engenharia de Dados](https://github.com/pedrolira10/MVP-Engenharia-de-Dados/blob/main/Mvp%20Engenharia%20de%20Dados.ipynb)
 
 1.1 Objetivo 
 
@@ -19,5 +19,8 @@ Sumário do projeto:
 
 1.5 Análise
 
-➡ 2. Notebook: Catálogo de Dados
+➡ 2. Notebook: [Catálogo de Dados](https://github.com/pedrolira10/MVP-Engenharia-de-Dados/blob/main/Mvp%20Cat%C3%A1logo%20de%20Dados.ipynb)
+
+➡ 3. Modelo Dimensional: [Esquema Estrela(Imagem Power BI)](https://github.com/pedrolira10/MVP-Engenharia-de-Dados/blob/main/Esquema%20Estrela.png)
+
 
