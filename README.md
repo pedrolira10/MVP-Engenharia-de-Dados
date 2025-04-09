@@ -23,4 +23,5 @@ Sumário do projeto:
 
 ➡ 3. Modelo Dimensional: [Esquema Estrela(Imagem Power BI)](https://github.com/pedrolira10/MVP-Engenharia-de-Dados/blob/main/Esquema%20Estrela.png)
 
+➡ 4. Dashboard Analítico: [Estatísticas do Pix](https://github.com/pedrolira10/MVP-Engenharia-de-Dados/blob/main/Dashboard%20Anal%C3%ADtico.png)
 
